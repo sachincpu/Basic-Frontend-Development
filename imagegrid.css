@@ -1,0 +1,22 @@
+body{
+    padding-top: 70px;
+}
+.jumbotron{
+    background-color: #ecf0f1;
+    color:#2c3e50;
+}
+.navbar-inverse{
+    background: #3373b1;
+}
+a{
+    color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+}
